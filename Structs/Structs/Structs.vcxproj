@@ -125,6 +125,8 @@
   <ItemGroup>
     <ClCompile Include="Enums.c" />
     <ClCompile Include="lesson_01.c" />
+    <ClCompile Include="lesson_02.c" />
+    <ClCompile Include="Lists.c" />
     <ClCompile Include="UnionExample.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

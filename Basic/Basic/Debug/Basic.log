@@ -1,3 +1,3 @@
-﻿  PointerToPointer.cpp
-O:\הנדסאות ומדעי המחשב\וואלפא\תשפב\שנה ב\C\Basic\Basic\PointerToPointer.cpp(17,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+﻿  standsInMarket.cpp
+O:\הנדסאות ומדעי המחשב\וואלפא\תשפב\שנה ב\C\Basic\Basic\standsInMarket.cpp(122,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
   Basic.vcxproj -> O:\הנדסאות ומדעי המחשב\וואלפא\תשפב\שנה ב\C\Basic\Debug\Basic.exe

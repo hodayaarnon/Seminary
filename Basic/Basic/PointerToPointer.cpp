@@ -12,7 +12,7 @@ void PrintArr(char** arr, int size)
 	}
 }
 
-
+/*
 void main()
 {
 	//char mat[5][30];  //תתקבל מטריצה בשטח זיכרון סטטי בגודל 5 על 30 והשם מאט מרחף על כל השטח
@@ -52,3 +52,4 @@ void main()
 
 	PrintArr(sArr,n);
 }
+*/

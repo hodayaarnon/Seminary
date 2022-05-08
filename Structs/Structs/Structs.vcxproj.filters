@@ -24,5 +24,11 @@
     <ClCompile Include="Enums.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lists.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson_02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

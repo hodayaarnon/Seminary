@@ -13,6 +13,7 @@ typedef enum
 	pink
 }color;
 
+/*
 void main()
 {
 	color c;
@@ -20,3 +21,4 @@ void main()
 
 	printf("%d\n", c);
 }
+*/

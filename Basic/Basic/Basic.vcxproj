@@ -129,6 +129,8 @@
     <ClCompile Include="lesson_01.cpp" />
     <ClCompile Include="Pointers.cpp" />
     <ClCompile Include="PointerToPointer.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="standsInMarket.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
