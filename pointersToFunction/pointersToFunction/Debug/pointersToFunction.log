@@ -1,0 +1,3 @@
+﻿  workWithBubble.c
+O:\הנדסאות ומדעי המחשב\וואלפא\תשפב\שנה ב\C\pointersToFunction\pointersToFunction\workWithBubble.c(41,15): warning C4013:  'strcmp' undefined; assuming extern returning int
+  pointersToFunction.vcxproj -> O:\הנדסאות ומדעי המחשב\וואלפא\תשפב\שנה ב\C\pointersToFunction\Debug\pointersToFunction.exe
