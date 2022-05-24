@@ -13,6 +13,7 @@ void Swap(int& a, int& b)
 
 void main()
 {
+	/*
 	cout << "Hello girls!!\n********" << endl ;
 	int x, y;
 
@@ -23,7 +24,24 @@ void main()
 	Swap(x, y);
 
 	cout << x <<","<< y<< endl;
+	*/
+	/**/
+	Fruit f("Apple",GREEN,0.10);
+	//Fruit f;
+	cout << &f<<endl;
+	//cout << f.getWeight();
+	cout << f.getName() << "  " << f.getColor() <<"  " << f.getWeight();
+	cout << "*********\n";
+	//cout << f;
 
-	Fruit f;
-	cout << f;
+	{
+		cout << "start block\n";
+		Fruit f2=f;
+		f2.setName("Orange");
+		cout << "end block\n";
+	}
+
+
+	Fruit* f2 = new Fruit("Banana");
+	delete f2;
 }
